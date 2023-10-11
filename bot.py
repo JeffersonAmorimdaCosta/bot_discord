@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from configs.key import token
+from configs.key import token # Importando token do bot
 from configs import const
 from time import sleep
 from functions import teacher_datamanagement, student_datamanagement, send_verification_email

@@ -2,7 +2,7 @@ import csv
 import smtplib
 import random
 import email.message
-from configs.bot_password import bot_password, bot_email
+from configs.bot_password import bot_password, bot_email # Importando e-mail e senha daa conta do e-mail do bot
 from configs import const
 
 
